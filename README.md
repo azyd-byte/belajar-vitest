@@ -11,3 +11,7 @@ Video yang digunakan sebagai referensi:
 - [Vitest](https://vitest.dev/)  
 - [Chai](https://www.chaijs.com/)  
 
+📢 Catatan
+Jika ada perbedaan dengan video, mungkin karena perubahan versi teknologi.
+Silakan buat issue jika ada pertanyaan atau saran.
+Terima kasih kepada Programmer Zaman Now atas materi yang bermanfaat! 🙌
